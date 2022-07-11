@@ -19,19 +19,10 @@
                     <div class="card p-3 mb-4">
                         <div class="g-ytsubscribe" data-channelid="UCeBev0IY3_mg3Tf8lpxhtig" data-layout="full" data-count="default"></div>
                     </div>
-                    <div class="card p-3 mb-4">
-                        <div class="g-ytsubscribe" data-channelid="UCURzAONtAbFlm-j7cqOLKng" data-layout="full" data-count="default"></div>
-                    </div>
                 </div>
                 <div class="col-md-4">
-                    <div class="card p-3 mb-4">
-                        <div class="g-ytsubscribe" data-channelid="UCtlHPNHDIOUU5xsH0ImW4Cw" data-layout="full" data-count="default"></div>
-                    </div>
                 </div>
                 <div class="col-md-4">
-                    <div class="card p-3 mb-4">
-                        <div class="g-ytsubscribe" data-channelid="UCJqNJJr60JwIjEGVHAvz1cg" data-layout="full" data-count="default"></div>
-                    </div>
                 </div>
             </div>
         </div>
