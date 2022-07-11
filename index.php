@@ -21,6 +21,9 @@
                     </div>
                 </div>
                 <div class="col-md-4">
+                    <div class="card p-3 mb-4">
+                        <div class="g-ytsubscribe" data-channelid="UCefp5-gO5snkzokm_nnvPtA" data-layout="full" data-count="default"></div>
+                    </div>
                 </div>
                 <div class="col-md-4">
                 </div>
